@@ -1,6 +1,6 @@
 # 마이크로 프론트엔드 실습
 
-- [Micro Frontend부터 모노레포까지 대규모 서비스를 위한 프론트엔드 아키텍처](https://fastcampus.co.kr/dev_online_mfa)
+- [Micro Frontends 부터 모노레포까지 대규모 서비스를 위한 프론트엔드 아키텍처](https://fastcampus.co.kr/dev_online_mfa)
 
 ## 파트 2. 기술 이해를 통한 마이크로 프론트엔드 개념 심화 학습 1: 설계를 위한 모노레포
 
