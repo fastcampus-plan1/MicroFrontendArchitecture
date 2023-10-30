@@ -2,17 +2,19 @@
 
 - [Micro Frontend부터 모노레포까지 대규모 서비스를 위한 프론트엔드 아키텍처](https://fastcampus.co.kr/dev_online_mfa)
 
-## 파트 2
+## 파트 2. 기술 이해를 통한 마이크로 프론트엔드 개념 심화 학습 1: 설계를 위한 모노레포
 
-### 패키지 매니저
+### 프론트엔드 프로젝트를 위한 도구 학습하기 1: 패키지 매니저
 
-- [npm-link-example](https://www.notion.so/npm-link-example-55ae9aaf3f724021af42546ffcd7d805?pvs=21)
+- [npm-link-example](https://github.com/fc-micro-frontends/npm-link-example)
 
-- [npm-workspaces-example](https://www.notion.so/npm-workspaces-example-c01ebb9eaf334278a14c9994cf5ea571?pvs=21)
+- [npm-workspaces-example](https://github.com/fc-micro-frontends/npm-workspaces-example)
 
-- [yarn workspaces](https://www.notion.so/yarn-workspaces-b9d4d5c47f7d46cfbbb8e0bbcd7260b7?pvs=21)
+- [yarn-classic-workspaces-example](https://github.com/fc-micro-frontends/yarn-classic-workspaces-example)
 
-- [pnpm workspaces](https://www.notion.so/pnpm-workspaces-f6eb197c774f4f98a6082d714181ef54?pvs=21)
+- [yarn-berry-workspaces-example](https://github.com/fc-micro-frontends/yarn-berry-workspaces-example)
+
+- [pnpm-workspaces-example](https://github.com/fc-micro-frontends/pnpm-workspaces-example)
 
 ---
 
