@@ -6,9 +6,9 @@
 
 ### 프론트엔드 프로젝트를 위한 도구 학습하기 1: 패키지 매니저
 
-- [npm-link-example](https://github.com/fc-micro-frontends/npm-link-example)
+- **npm-link-example** [Source Code](https://github.com/fc-micro-frontends/npm-link-example) | [Guide](https://2woongjae.notion.site/npm-link-example-55ae9aaf3f724021af42546ffcd7d805)
 
-- [npm-workspaces-example](https://github.com/fc-micro-frontends/npm-workspaces-example)
+- **npm-workspaces-example** [Source Code](https://github.com/fc-micro-frontends/npm-workspaces-example) | [Guide](https://2woongjae.notion.site/npm-workspaces-example-c01ebb9eaf334278a14c9994cf5ea571)
 
 - [yarn-classic-workspaces-example](https://github.com/fc-micro-frontends/yarn-classic-workspaces-example)
 
