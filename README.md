@@ -10,7 +10,7 @@
 
 - **npm-workspaces-example** [Source Code](https://github.com/fc-micro-frontends/npm-workspaces-example) | [Guide](https://2woongjae.notion.site/npm-workspaces-example-c01ebb9eaf334278a14c9994cf5ea571)
 
-- [yarn-classic-workspaces-example](https://github.com/fc-micro-frontends/yarn-classic-workspaces-example)
+- **yarn-classic-workspaces-example** [Source Code](https://github.com/fc-micro-frontends/yarn-classic-workspaces-example) | [Guide](https://2woongjae.notion.site/yarn-classic-workspaces-example-3406387638424fe7a6ff5cb861bfed38)
 
 - [yarn-berry-workspaces-example](https://github.com/fc-micro-frontends/yarn-berry-workspaces-example)
 
