@@ -14,7 +14,7 @@
 
 - **yarn-berry-workspaces-example** [Source Code](https://github.com/fc-micro-frontends/yarn-berry-workspaces-example) | [Guide](https://2woongjae.notion.site/yarn-berry-workspaces-example-b9d4d5c47f7d46cfbbb8e0bbcd7260b7)
 
-- [pnpm-workspaces-example](https://github.com/fc-micro-frontends/pnpm-workspaces-example)
+- **pnpm-workspaces-example** [Source Code](https://github.com/fc-micro-frontends/pnpm-workspaces-example) | [Guide](https://2woongjae.notion.site/pnpm-workspaces-example-f6eb197c774f4f98a6082d714181ef54)
 
 ---
 
