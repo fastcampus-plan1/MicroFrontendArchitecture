@@ -32,7 +32,7 @@
 
 ### 프론트엔드 프로젝트를 위한 도구 학습하기 3: 트랜스파일러와 번들링 도구
 
-- [babel](https://www.notion.so/babel-54c151258b814ba5a9ff0f86040b1f07?pvs=21)
+- **babel-example** [Source Code](https://github.com/fc-micro-frontends/babel-example) | [Guide](https://2woongjae.notion.site/babel-example-54c151258b814ba5a9ff0f86040b1f07)
 
 - [swc](https://www.notion.so/swc-4d53222895ec436dabe4d82130c39f5d?pvs=21)
 
