@@ -20,7 +20,7 @@
 
 ### 프론트엔드 프로젝트를 위한 도구 학습하기 2: 모노레포 빌드시스템 도구
 
-- [lerna](https://www.notion.so/lerna-081d2a9b81984f138f37ef37668e3529?pvs=21)
+- **lerna-example** [Source Code](https://github.com/fc-micro-frontends/lerna-example) | [Guide](https://2woongjae.notion.site/lerna-example-081d2a9b81984f138f37ef37668e3529)
 
 - [nx](https://www.notion.so/nx-df39324a674f407ab909430b238f3419?pvs=21)
 
