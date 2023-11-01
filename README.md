@@ -40,7 +40,7 @@
 
 - [rollup](https://www.notion.so/rollup-a19215da135d4bf7ad056906ae10ec16?pvs=21)
 
-- [terser](https://www.notion.so/terser-d3fc46c2806d4602be420928c993e4c0?pvs=21)
+- **terser-example** [Source Code](https://github.com/fc-micro-frontends/terser-example) | [Guide](https://2woongjae.notion.site/terser-example-d3fc46c2806d4602be420928c993e4c0)
 
 - [esbuild](https://www.notion.so/esbuild-883087feb882419bb83072449324856b?pvs=21)
 
