@@ -22,11 +22,11 @@
 
 - **lerna-example** [Source Code](https://github.com/fc-micro-frontends/lerna-example) | [Guide](https://2woongjae.notion.site/lerna-example-081d2a9b81984f138f37ef37668e3529)
 
-- [nx](https://www.notion.so/nx-df39324a674f407ab909430b238f3419?pvs=21)
+- **nx-example** [Source Code](https://github.com/fc-micro-frontends/nx-example) | [Guide](https://2woongjae.notion.site/nx-example-df39324a674f407ab909430b238f3419)
 
-- [rush](https://www.notion.so/rush-a9df045e89f346498b9dc4a0d588aaef?pvs=21)
+- **rush-example** [Source Code](https://github.com/fc-micro-frontends/rush-example) | 
 
-- [turborepo](https://www.notion.so/turborepo-09f3037135ad4a3790141b986d484697?pvs=21)
+- **turborepo-example** [Source Code](https://github.com/fc-micro-frontends/turborepo-example) | 
 
 ---
 
@@ -34,7 +34,7 @@
 
 - **babel-example** [Source Code](https://github.com/fc-micro-frontends/babel-example) | [Guide](https://2woongjae.notion.site/babel-example-54c151258b814ba5a9ff0f86040b1f07)
 
-- **rollup-example** [Source Code](https://github.com/fc-micro-frontends/rollup-example)
+- **rollup-example** [Source Code](https://github.com/fc-micro-frontends/rollup-example) | [Guide](https://2woongjae.notion.site/rollup-example-a19215da135d4bf7ad056906ae10ec16)
 
 - **terser-example** [Source Code](https://github.com/fc-micro-frontends/terser-example) | [Guide](https://2woongjae.notion.site/terser-example-d3fc46c2806d4602be420928c993e4c0)
 
