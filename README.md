@@ -50,34 +50,4 @@
 
 ## 파트 3
 
-## 파트 4
-
-### 예제로 익히는 Module Federation 기술1 : 기본 설정
-
-- [나의 React 앱에서 다른 서버의 React 컴포넌트를 런타임에 가져와서 사용하기](https://www.notion.so/React-React-081d572755254539af0e8c06bd9b131e?pvs=21)
-
-- [여러 마이크로 앱에서 런타임에 공통적으로 사용하는 라이브러리를 한번만 로드하기](https://www.notion.so/12f214bdb97c4f488aea9d842cbe3633?pvs=21)
-
-- [두 앱에서 Context 를 공유해서 사용하기](https://www.notion.so/Context-97b604eac5774b17a2751d912dcfcdce?pvs=21)
-
-- [Lazy, Suspense, ErrorBoundary 를 통한 통합](https://www.notion.so/Lazy-Suspense-ErrorBoundary-6df098d75d4846e8959c83331145680d?pvs=21)
-
----
-
-### 예제로 익히는 Module Federation 기술2 : 프로덕션을 위한 필수 설정
-
-- [다른 서버의 React 컴포넌트에 TypeScript 의 타입 설정하기](https://www.notion.so/React-TypeScript-8990ceafc1504374b5d0b13e8fb013db?pvs=21)
-
-- [다른 서버의 리액트 앱을 가져와서 엘리먼트에 랜더하기 (격리)](https://www.notion.so/b21da129cf874d0fa8a91cc0b932051a?pvs=21)
-
-- [여러 페이지가 있는 두개의 앱을 하나로 통합하기 (feat. react-router-dom)](https://www.notion.so/feat-react-router-dom-c299accab0724bb5a9c1fff20f2cca6c?pvs=21)
-
-- [전역에서 Redux 를 사용할 때, 다른 서버의 React 컴포넌트를 가져오면서 리듀서를 추가하기](https://www.notion.so/Redux-React-beaca84997f4451aa9c375e93bb1b213?pvs=21)
-
----
-
-### 예제로 익히는 Module Federation 기술3 : 심화 과정
-
-- [나의 React 앱에서 다른 서버의 React 컴포넌트를 가져와서 동적으로 사용하기](https://www.notion.so/React-React-c2430ed885f24a5fa26213dd246c6901?pvs=21)
-
-- [다른 서버의 React 컴포넌트를 가져올 때, 다른 서버를 동적으로 지정하기](https://www.notion.so/React-75c4f7ec2fd946b797b623e0da1cf9f9?pvs=21)
+- 
