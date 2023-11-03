@@ -24,13 +24,13 @@
 
 - **nx-example** [Source Code](https://github.com/fc-micro-frontends/nx-example) | [Guide](https://2woongjae.notion.site/nx-example-df39324a674f407ab909430b238f3419)
 
-- **rush-example** [Source Code](https://github.com/fc-micro-frontends/rush-example) | 
+- **rush-example** [Source Code](https://github.com/fc-micro-frontends/rush-example) | [Guide](https://2woongjae.notion.site/rush-example-a9df045e89f346498b9dc4a0d588aaef)
 
-- **turborepo-example** [Source Code](https://github.com/fc-micro-frontends/turborepo-example) | 
+- **turborepo-example** [Source Code](https://github.com/fc-micro-frontends/turborepo-example) | [Guide](https://2woongjae.notion.site/turborepo-example-09f3037135ad4a3790141b986d484697)
 
 ---
 
-### 프론트엔드 프로젝트를 위한 도구 학습하기 3: 트랜스파일러와 번들링 도구
+### 프론트엔드 프로젝트를 위한 도구 학습하기 3: 트랜스파일러와 번들러
 
 - **babel-example** [Source Code](https://github.com/fc-micro-frontends/babel-example) | [Guide](https://2woongjae.notion.site/babel-example-54c151258b814ba5a9ff0f86040b1f07)
 
@@ -38,16 +38,12 @@
 
 - **terser-example** [Source Code](https://github.com/fc-micro-frontends/terser-example) | [Guide](https://2woongjae.notion.site/terser-example-d3fc46c2806d4602be420928c993e4c0)
 
-- **esbuild-example** [Source Code](https://github.com/fc-micro-frontends/esbuild-example)
+- **esbuild-example** [Source Code](https://github.com/fc-micro-frontends/esbuild-example) | [Guide](https://2woongjae.notion.site/esbuild-example-883087feb882419bb83072449324856b)
 
 - **swc-example** [Source Code](https://github.com/fc-micro-frontends/swc-example) | [Guide](https://2woongjae.notion.site/swc-example-4d53222895ec436dabe4d82130c39f5d)
 
-- [webpack](https://www.notion.so/webpack-791c0376c39843f08dddb05adadb12ab?pvs=21)
+- **webpack-example** [Source Code](https://github.com/fc-micro-frontends/webpack-example) | [Guide](https://2woongjae.notion.site/webpack-example-791c0376c39843f08dddb05adadb12ab)
 
-- [vite](https://www.notion.so/vite-d7d68dc491eb4533a9eb7e073ab92ffd?pvs=21)
+- **vite-example** [Source Code](https://github.com/fc-micro-frontends/swc-example) | [Guide](https://2woongjae.notion.site/vite-example-d7d68dc491eb4533a9eb7e073ab92ffd)
 
 ---
-
-## 파트 3
-
-- 
