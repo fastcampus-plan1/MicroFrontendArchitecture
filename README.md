@@ -44,6 +44,6 @@
 
 - **webpack-example** [Source Code](https://github.com/fc-micro-frontends/webpack-example) | [Guide](https://2woongjae.notion.site/webpack-example-791c0376c39843f08dddb05adadb12ab)
 
-- **vite-example** [Source Code](https://github.com/fc-micro-frontends/swc-example) | [Guide](https://2woongjae.notion.site/vite-example-d7d68dc491eb4533a9eb7e073ab92ffd)
+- **vite-example** [Source Code](https://github.com/fc-micro-frontends/vite-example) | [Guide](https://2woongjae.notion.site/vite-example-d7d68dc491eb4533a9eb7e073ab92ffd)
 
 ---
