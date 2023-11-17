@@ -47,3 +47,35 @@
 - **vite-example** [Source Code](https://github.com/fc-micro-frontends/vite-example) | [Guide](https://2woongjae.notion.site/vite-example-d7d68dc491eb4533a9eb7e073ab92ffd)
 
 ---
+
+## 파트 3. 기술 이해를 통한 마이크로 프론트엔드 개념 심화 학습 2: 분해와 통합을 위한 여러 기술 비교
+
+### 마이크로 프론트엔드를 구현하는 기술 1: 클라이언트에서 ajax 를 이용한 프레그먼트 통합
+
+- **micro-frontends-with-ajax** [Source Code](https://github.com/fc-micro-frontends/micro-frontends-with-ajax) | [Guide](https://2woongjae.notion.site/Ajax-60422c0969834f5db168dc21cda0df55)
+
+---
+
+### 마이크로 프론트엔드를 구현하는 기술 2: 서버에서 proxy 를 이용한 여러 페이지 통합
+
+- **micro-frontends-with-proxy** [Source Code](https://github.com/fc-micro-frontends/micro-frontends-with-proxy) | [Guide](https://2woongjae.notion.site/Nginx-proxy-56bf75a7d405442b891b1d9083ee0f92)
+
+---
+
+### 마이크로 프론트엔드를 구현하는 기술 3: 서버에서 SSI 를 이용한 프레그먼트 통합
+
+- **micro-frontends-with-ssi** [Source Code](https://github.com/fc-micro-frontends/micro-frontends-with-ssi) | [Guide](https://2woongjae.notion.site/Nginx-SSI-Server-Side-Includes-8c9d64100abf4fb28c1c1bf00eae76f9)
+
+---
+
+### 마이크로 프론트엔드를 구현하는 기술 4: 클라이언트에서 Web Components 를 이용한 프레그먼트 통합
+
+- **micro-frontends-with-wc** [Source Code](https://github.com/fc-micro-frontends/micro-frontends-with-wc) | [Guide](https://2woongjae.notion.site/Web-Components-77821011bf724ec78aad73d35a703f9e)
+
+---
+
+### 마이크로 프론트엔드를 구현하는 기술 5: 클라이언트에서 iframe 을 이용한 통합
+
+- **micro-frontends-with-iframe** [Source Code](https://github.com/fc-micro-frontends/micro-frontends-with-iframe) | [Guide](https://2woongjae.notion.site/iframe-f1ca17a87e914da4af360cdb0cb567f0)
+
+---
