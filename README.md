@@ -79,3 +79,17 @@
 - **micro-frontends-with-iframe** [Source Code](https://github.com/fc-micro-frontends/micro-frontends-with-iframe) | [Guide](https://2woongjae.notion.site/iframe-f1ca17a87e914da4af360cdb0cb567f0)
 
 ---
+
+## 파트 4. 마이크로 앱 통합의 핵심 기술 Module Federation 예제로 익히기
+
+### 예제로 익히는 Module Federation 기술 1: 기본 설정
+
+- **module-federation-basic-example/step1** [Source Code](https://github.com/fc-micro-frontends/module-federation-basic-example/tree/step1) | [Guide](https://2woongjae.notion.site/React-React-081d572755254539af0e8c06bd9b131e)
+
+- **module-federation-basic-example/step2** [Source Code](https://github.com/fc-micro-frontends/module-federation-basic-example/tree/step2) | [Guide](https://2woongjae.notion.site/12f214bdb97c4f488aea9d842cbe3633)
+
+- **module-federation-basic-example/step3** [Source Code](https://github.com/fc-micro-frontends/module-federation-basic-example/tree/step3) | [Guide](https://2woongjae.notion.site/Context-97b604eac5774b17a2751d912dcfcdce)
+
+- **module-federation-basic-example/step4** [Source Code](https://github.com/fc-micro-frontends/module-federation-basic-example/tree/step4) | [Guide](https://2woongjae.notion.site/Lazy-Suspense-ErrorBoundary-6df098d75d4846e8959c83331145680d)
+
+---
