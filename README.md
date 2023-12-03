@@ -93,3 +93,23 @@
 - **module-federation-basic-example/step4** [Source Code](https://github.com/fc-micro-frontends/module-federation-basic-example/tree/step4) | [Guide](https://2woongjae.notion.site/Lazy-Suspense-ErrorBoundary-6df098d75d4846e8959c83331145680d)
 
 ---
+
+### 예제로 익히는 Module Federation 기술 2: 프로덕션을 위한 필수 설정
+
+- **module-federation-ts-example** [Source Code](https://github.com/fc-micro-frontends/module-federation-ts-example) | [Guide](https://2woongjae.notion.site/React-TypeScript-8990ceafc1504374b5d0b13e8fb013db)
+
+- **module-federation-isolated-example** [Source Code](https://github.com/fc-micro-frontends/module-federation-isolated-example) | [Guide](https://2woongjae.notion.site/b21da129cf874d0fa8a91cc0b932051a)
+
+- **module-federation-router-example** [Source Code](https://github.com/fc-micro-frontends/module-federation-router-example) | [Guide](https://2woongjae.notion.site/feat-react-router-dom-c299accab0724bb5a9c1fff20f2cca6c)
+
+- **module-federation-redux-example** [Source Code](https://github.com/fc-micro-frontends/module-federation-redux-example) | [Guide](https://2woongjae.notion.site/Redux-React-beaca84997f4451aa9c375e93bb1b213)
+
+---
+
+### 예제로 익히는 Module Federation 기술 3: 심화 과정
+
+- **module-federation-dynamic-example/step1** [Source Code](https://github.com/fc-micro-frontends/module-federation-dynamic-example/tree/step1) | [Guide](https://2woongjae.notion.site/React-React-c2430ed885f24a5fa26213dd246c6901)
+
+- **module-federation-dynamic-example/step2** [Source Code](https://github.com/fc-micro-frontends/module-federation-dynamic-example/tree/step2) | [Guide](https://2woongjae.notion.site/React-75c4f7ec2fd946b797b623e0da1cf9f9)
+
+---
