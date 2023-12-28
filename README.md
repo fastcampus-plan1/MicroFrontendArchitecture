@@ -113,3 +113,53 @@
 - **module-federation-dynamic-example/step2** [Source Code](https://github.com/fc-micro-frontends/module-federation-dynamic-example/tree/step2) | [Guide](https://2woongjae.notion.site/React-75c4f7ec2fd946b797b623e0da1cf9f9)
 
 ---
+
+## 파트 5. 마이크로 프론트엔드 아키텍처를 이용한 커리어 플랫폼 서비스 프로젝트 함께 만들기: 설계
+
+### 프로젝트 모노레포 설계
+
+- **career-up/step1** [Source Code](https://github.com/fc-micro-frontends/career-up/tree/step1) | [Guide](https://2woongjae.notion.site/turborepo-pnpm-b31ab8ac4cd940d58660c01258a9cbc2)
+
+---
+
+## 파트 6. 마이크로 프론트엔드 아키텍처를 이용한 커리어 플랫폼 서비스 프로젝트 함께 만들기: 공통 모듈 및 마이크로 앱 구현하기
+
+### 공통 모듈 개발하기 1 : UI 라이브러리 패키지 만들기
+
+- **career-up/step2** [Source Code](https://github.com/fc-micro-frontends/career-up/tree/step2) | [Guide](https://2woongjae.notion.site/UI-2ff9ecb4a6244a3bb58f060cc110f9d9)
+
+- **career-up/step3** [Source Code](https://github.com/fc-micro-frontends/career-up/tree/step3) | [Guide](https://2woongjae.notion.site/e0ae164cd080463f8a6614bfc848a66a)
+
+---
+
+### 공통 모듈 개발하기 2 : App Shell 만들기
+
+- **career-up/step4** [Source Code](https://github.com/fc-micro-frontends/career-up/tree/step4) | [Guide](https://2woongjae.notion.site/App-Shell-699475f0673f403fbfb784de24e6b199)
+
+- **career-up/step5** [Source Code](https://github.com/fc-micro-frontends/career-up/tree/step5) | [Guide](https://2woongjae.notion.site/react-router-dom-85164d4a8c3d4540a1177199a6e87230)
+
+- **career-up/step6** [Source Code](https://github.com/fc-micro-frontends/career-up/tree/step6) | [Guide](https://2woongjae.notion.site/8f1ec1810b414b37b2b456cf3a4b75d6)
+
+- **career-up/step7** [Source Code](https://github.com/fc-micro-frontends/career-up/tree/step7) | [Guide](https://2woongjae.notion.site/App-Shell-994c9c0c7d2048d9ae5e88d158160c7d)
+
+---
+
+### 마이크로 앱 만들기 1 : 포스팅
+
+---
+
+### 마이크로 앱 만들기 2 : 교육 컨텐츠
+
+---
+
+### 마이크로 앱 만들기 3 : 인맥 관리
+
+---
+
+### 마이크로 앱 만들기 4 : 채용 공고
+
+---
+
+### 프레그먼트 만들기
+
+---
