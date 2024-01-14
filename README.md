@@ -126,40 +126,64 @@
 
 ### 공통 모듈 개발하기 1 : UI 라이브러리 패키지 만들기
 
-- **career-up/step2** [Source Code](https://github.com/fc-micro-frontends/career-up/tree/step2) | [Guide](https://2woongjae.notion.site/UI-2ff9ecb4a6244a3bb58f060cc110f9d9)
+- **UI 라이브러리 패키지 생성 및 설정** [Source Code](https://github.com/fc-micro-frontends/career-up/tree/step2) | [Guide](https://2woongjae.notion.site/UI-2ff9ecb4a6244a3bb58f060cc110f9d9)
 
-- **career-up/step3** [Source Code](https://github.com/fc-micro-frontends/career-up/tree/step3) | [Guide](https://2woongjae.notion.site/e0ae164cd080463f8a6614bfc848a66a)
+- **컴포넌트 제작 및 빌드** [Source Code](https://github.com/fc-micro-frontends/career-up/tree/step3) | [Guide](https://2woongjae.notion.site/e0ae164cd080463f8a6614bfc848a66a)
 
 ---
 
 ### 공통 모듈 개발하기 2 : App Shell 만들기
 
-- **career-up/step4** [Source Code](https://github.com/fc-micro-frontends/career-up/tree/step4) | [Guide](https://2woongjae.notion.site/App-Shell-699475f0673f403fbfb784de24e6b199)
+- **App Shell 의 역할 및 패키지 생성 및 설정** [Source Code](https://github.com/fc-micro-frontends/career-up/tree/step4) | [Guide](https://2woongjae.notion.site/App-Shell-699475f0673f403fbfb784de24e6b199)
 
-- **career-up/step5** [Source Code](https://github.com/fc-micro-frontends/career-up/tree/step5) | [Guide](https://2woongjae.notion.site/react-router-dom-85164d4a8c3d4540a1177199a6e87230)
+- **react-router-dom 을 통한 내비게이션 구현** [Source Code](https://github.com/fc-micro-frontends/career-up/tree/step5) | [Guide](https://2woongjae.notion.site/react-router-dom-85164d4a8c3d4540a1177199a6e87230)
 
-- **career-up/step6** [Source Code](https://github.com/fc-micro-frontends/career-up/tree/step6) | [Guide](https://2woongjae.notion.site/8f1ec1810b414b37b2b456cf3a4b75d6)
+- **공통 레이아웃 설정 및 스타일 충돌을 위한 설정** [Source Code](https://github.com/fc-micro-frontends/career-up/tree/step6) | [Guide](https://2woongjae.notion.site/8f1ec1810b414b37b2b456cf3a4b75d6)
 
-- **career-up/step7** [Source Code](https://github.com/fc-micro-frontends/career-up/tree/step7) | [Guide](https://2woongjae.notion.site/App-Shell-994c9c0c7d2048d9ae5e88d158160c7d)
+- **App Shell 의 인증 처리** [Source Code](https://github.com/fc-micro-frontends/career-up/tree/step7) | [Guide](https://2woongjae.notion.site/App-Shell-994c9c0c7d2048d9ae5e88d158160c7d)
 
 ---
 
 ### 마이크로 앱 만들기 1 : 포스팅
 
+- **API 서버 생성 및 설정** [Source Code](https://github.com/fc-micro-frontends/career-up/tree/step8) | [Guide](https://2woongjae.notion.site/API-2130b086603242248a8f7bdf44c8c076)
+
+- **포스팅 서비스 개발하기** [Source Code](https://github.com/fc-micro-frontends/career-up/tree/step9) | [Guide](https://2woongjae.notion.site/2a28351ebf7e496b8a2cc7353d66c57b)
+
 ---
 
 ### 마이크로 앱 만들기 2 : 교육 컨텐츠
+
+- **기술 스택 선정 및 패키지 생성 및 설정 (edu)** [Source Code](https://github.com/fc-micro-frontends/career-up/tree/step10) | [Guide](https://2woongjae.notion.site/edu-aeab6bcefbf1494eb35c91f71c45a43c)
+
+- **교육 컨텐츠 서비스 개발하기** [Source Code](https://github.com/fc-micro-frontends/career-up/tree/step11) | [Guide](https://2woongjae.notion.site/e8e675113feb4265b03018d62f6ccab5)
 
 ---
 
 ### 마이크로 앱 만들기 3 : 인맥 관리
 
+- **기술 스택 선정 및 패키지 생성 및 설정 (network)** [Source Code](https://github.com/fc-micro-frontends/career-up/tree/step12) | [Guide](https://2woongjae.notion.site/network-068ff8f7b45543e081a44ec8eeab1a69)
+
+- **인맥 관리 서비스 개발하기** [Source Code](https://github.com/fc-micro-frontends/career-up/tree/step13) | [Guide](https://2woongjae.notion.site/7564775bae794366baf0a39fa4d0cdaf)
+
 ---
 
 ### 마이크로 앱 만들기 4 : 채용 공고
 
+- **기술 스택 선정 및 패키지 생성 및 설정 (job)** [Source Code](https://github.com/fc-micro-frontends/career-up/tree/step14) | [Guide](https://2woongjae.notion.site/job-01bccced70b94ec1ac657d2d783d77c7)
+
+- **채용 공고 서비스 개발하기** [Source Code](https://github.com/fc-micro-frontends/career-up/tree/step15) | [Guide](https://2woongjae.notion.site/9e7b98cd663c4dbaa1fa823b610dc29c)
+
 ---
 
 ### 프레그먼트 만들기
+
+- **프레그먼트 공유를 위한 준비** [Source Code](https://github.com/fc-micro-frontends/career-up/tree/step16) | [Guide](https://2woongjae.notion.site/000881c19e7341db9a71cb3178cc8b19)
+
+- **일촌 맺기 프레그먼트 컴포넌트 작성** [Source Code](https://github.com/fc-micro-frontends/career-up/tree/step17) | [Guide](https://2woongjae.notion.site/3f7d3498309b423b96311a01e5838b2d)
+
+- **추천 채용 공고 프레그먼트 컴포넌트 작성** [Source Code](https://github.com/fc-micro-frontends/career-up/tree/step18) | [Guide](https://2woongjae.notion.site/f4ed2fbb0ff844c9a559120085285e70)
+
+- **프레그먼트 사용하기** [Source Code](https://github.com/fc-micro-frontends/career-up/tree/step19) | [Guide](https://2woongjae.notion.site/533068799bf34259ad9a9dab7f6e2933)
 
 ---
