@@ -187,3 +187,19 @@
 - **프레그먼트 사용하기** [Source Code](https://github.com/fc-micro-frontends/career-up/tree/step19) | [Guide](https://2woongjae.notion.site/533068799bf34259ad9a9dab7f6e2933)
 
 ---
+
+## 파트 7. 마이크로 프론트엔드 아키텍처를 이용한 커리어 플랫폼 서비스 프로젝트 함께 만들기: 통합 및 빌드 배포하기
+
+### Module Federation 으로 제작된 마이크로 앱 빌드 및 배포하기
+
+- **마이크로 앱과 프레그먼트 공유를 위한 모듈 페더레이션 설정** [Source Code](https://github.com/fc-micro-frontends/career-up/tree/step20) | [Guide](https://2woongjae.notion.site/d5ea3ea1d6dc4e699f5383bb31ccc08e)
+
+- **CI/CD 파이프라인 구축 및 자동화 설정** [Source Code](https://github.com/fc-micro-frontends/career-up/tree/step21) | [Guide](https://2woongjae.notion.site/CI-CD-766223f06ef04512bf1bd994f97cb903)
+
+### 개발 후 배포 과정 시뮬레이션
+
+- **마이크로 앱 추가 개발 후 배포 범위 설정 및 배포** [Source Code](https://github.com/fc-micro-frontends/career-up/tree/step22) | [Guide](https://2woongjae.notion.site/759e33293b3d47d59179bd4527a455a4)
+
+- **프레그먼트 추가 개발 후 배포 범위 설정 및 배포** [Source Code](https://github.com/fc-micro-frontends/career-up/tree/step23) | [Guide](https://2woongjae.notion.site/a775714192fa4163977facf6d847ca1c)
+
+---
